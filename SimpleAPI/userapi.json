@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "1",
+        "name" : "Zubair Khalid",
+        "username" : "zubairkhalid618",
+        "email" : "zubairkhalid618@gmail.com",
+        "contact" : "03067064042",
+        "address" : {
+            "street" : "Street no. 1",
+            "city" : "Toba Tek Singh",
+            "zipcode" : "36050"
+        }
+    }
+]
